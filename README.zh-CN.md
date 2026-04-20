@@ -6,9 +6,9 @@
 
 ## 演示视频
 
-https://github.com/tivnantu/afk/raw/refs/heads/main/assets/afk-demo.mp4
+https://github.com/user-attachments/assets/63483dff-f812-4085-bcf7-6d90df3bb45e
 
-> 如果视频未能直接播放，请打开 [`assets/afk-demo.mp4`](https://github.com/tivnantu/afk/raw/refs/heads/main/assets/afk-demo.mp4)。
+> 如果视频未能直接播放，请打开 [`assets/afk-demo.mp4`](assets/afk-demo.mp4)。
 
 ## 功能概览
 

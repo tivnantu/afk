@@ -6,9 +6,9 @@
 
 ## Demo video
 
-https://github.com/tivnantu/afk/raw/refs/heads/main/assets/afk-demo.mp4
+https://github.com/user-attachments/assets/63483dff-f812-4085-bcf7-6d90df3bb45e
 
-> If the video does not render, open [`assets/afk-demo.mp4`](https://github.com/tivnantu/afk/raw/refs/heads/main/assets/afk-demo.mp4) directly.
+> If the video does not render, open [`assets/afk-demo.mp4`](assets/afk-demo.mp4) directly.
 
 ## Overview
 
